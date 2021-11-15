@@ -1,0 +1,35 @@
+.movie-card {
+  display: flex;
+  width: 310px;
+}
+
+span {
+  display: inline-block;
+  margin: 5px 0;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+li {
+  margin: 10px 20px;
+}
+
+img {
+  width: 150px;
+}
+
+select {
+  height: 20px;
+  margin-left: 5px;
+}
+
+.movie-library-button {
+  height: 20px;
+  width: 160px;
+  margin-top: 10px;
+}

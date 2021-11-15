@@ -1,0 +1,18 @@
+.movie-card {
+  display: flex;
+  margin: 20px;
+  width: 330px;
+  background-color: rgb(233, 236, 240);
+  font-size: 12px;
+}
+
+.poster {
+  width: 150px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
